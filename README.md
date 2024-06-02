@@ -2,7 +2,7 @@
   Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" />, I'm Becks Simpson (They/Them)</h1>
+         width="45" />, I'm Becks Simpson</h1>
 <h5 align="center">
 I’m a reformed FullStack Developer turned Data Scientist, with a Double Masters in Electronics and Information (Imperial, 2017) and Applied Data Science (Buckingham, 2021). In my free time, I mess around with Electronics, crochet, embroidery and language learning.
 </h5>
