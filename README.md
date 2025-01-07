@@ -4,7 +4,7 @@
          height="45"
          width="45" />, I'm Becks Simpson</h1>
 <h5 align="center">
-I’m a reformed FullStack Developer turned Data Scientist, with a Double Masters in Electronics and Information (Imperial, 2017) and Applied Data Science (Buckingham, 2021). In my free time, I mess around with Electronics, crochet, embroidery and language learning.
+Marketing Data Scientist, with a Double Masters in Electronics and Information (Imperial, 2017) and Applied Data Science (Buckingham, 2021). 
 </h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rs6713&label=Profile%20views&color=0e75b6&style=flat" alt="rs6713" /> </p>
 <p>
@@ -14,14 +14,13 @@ I’m a reformed FullStack Developer turned Data Scientist, with a Double Master
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=rs6713&count_private=true&theme=radical&show_icons=true" />
 
-- 📫 How to reach me **becks.simpson@outlook.com**
+- 📫 How to reach me **beckslelandsimpson@gmail.com**
 <br><br>
 <hr>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/becks-simpson/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Becks Simpson" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/becks_draws" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="Instagram becks_draws" height="50" width="50" /></a>
 </p>
 
 <hr>
